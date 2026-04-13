@@ -22,7 +22,7 @@
 
 <br><br>
 
-> **Ich entwickle Software, die echte Probleme löst** — von Dienstplanung in der Pflege<br>über Gleisplanungstools bis hin zu Indie Games.
+> **Ich entwickle Software, die echte Probleme löst** — von Dienstplanung in für Kinderheime<br>über Gleisplanungstools bis hin zu Indie Games und Roblox Games.
 
 <br>
 
