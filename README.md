@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./sylvron-logo.svg" width="140" alt="Sylvron Logo" />
+<img src="./sylvron-logo.png" width="140" alt="Sylvron Logo" />
 
 <br><br>
 
@@ -175,40 +175,6 @@ Ein Roblox Dice-/Wagering-Erlebnis, eigenem Shop-System mit Ingame-Währung (Tal
 <img src="https://github-readme-stats.vercel.app/api?username=BadFameZz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="170" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadFameZz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&count_private=true" height="170" />
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CONTACT -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📬 Kontakt
-
-<div align="center">
-
-Interesse an einer Zusammenarbeit oder Fragen zu meinen Projekten?
-
-<br><br>
-
-<!--
-Ersetze die Links unten mit deinen echten Profilen/Kontaktdaten:
--->
-
-<a href="mailto:deine@email.de">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<!-- Weitere Social Links nach Bedarf einkommentieren:
-&nbsp;
-<a href="https://twitter.com/DEIN_HANDLE">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://discord.gg/DEIN_SERVER">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
--->
 
 </div>
 
