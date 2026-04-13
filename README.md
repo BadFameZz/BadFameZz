@@ -36,7 +36,7 @@
 
 ## 👤 Über mich
 
-Hey, ich bin **Thomas** — Solo-Entwickler und Gründer von **Sylvron** aus Sachsen-Anhalt. Ich arbeite an der Schnittstelle von **B2B-SaaS**, **Desktop-Anwendungen** und **Game Development**. Meine Projekte verbinden technische Tiefe mit praxisnahen Lösungen — ob für Pflegeeinrichtungen, Eisenbahningenieure oder Gamer.
+Hey, ich bin **BadFameZz** — Solo-Entwickler und Gründer von **Sylvron**. Ich arbeite an der Schnittstelle von **B2B-SaaS**, **Desktop-Anwendungen** und **Game Development**. Meine Projekte verbinden technische Tiefe mit praxisnahen Lösungen — ob für Kinderbetreuung, Eisenbahningenieure oder Gamer.
 
 Wenn ich nicht programmiere, schreibe ich an meinem Fantasy-Roman oder bastle an Pixelkunst.
 
@@ -56,7 +56,7 @@ Wenn ich nicht programmiere, schreibe ich an meinem Fantasy-Roman oder bastle an
 
 **B2B SaaS — Dienstplanung für die Pflege**
 
-Intelligente Dienstplanungs-Plattform, speziell entwickelt für **deutsche Pflegeeinrichtungen**. Deckt komplexe Schichtregeln, gesetzliche Vorgaben und Team-Koordination ab.
+Intelligente Dienstplanungs-Plattform, speziell entwickelt für **deutsche Kinderheime**. Deckt komplexe Schichtregeln, gesetzliche Vorgaben und Team-Koordination ab.
 
 `TypeScript` `React` `Encore.dev` `PostgreSQL`
 
@@ -73,7 +73,7 @@ Professionelles Planungstool für Eisenbahninfrastruktur. Abdeckung von ETCS/ERT
 
 `Svelte` `Tauri` `Rust`
 
-<sub>🔒 In Entwicklung</sub>
+<sub>Fertig</sub>
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Ein Startup-Tycoon-Simulationsspiel, in dem Spieler ihr eigenes Unternehmen von 
 
 **Roblox — Dice & Wagering**
 
-Ein Roblox Dice-/Wagering-Erlebnis mit Cyber-RPG-Ästhetik, eigenem Shop-System mit Ingame-Währung (Taler) und persistenter Spieler-Progression via DataStore.
+Ein Roblox Dice-/Wagering-Erlebnis, eigenem Shop-System mit Ingame-Währung (Taler) und persistenter Spieler-Progression via DataStore.
 
 `Roblox` `Luau` `Game Design`
 
