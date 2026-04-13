@@ -10,7 +10,7 @@
 
 <img src="./sylvron-logo.png" width="140" alt="Sylvron Logo" />
 
-<br><br>
+<br>
 
 # S Y L V R O N
 
