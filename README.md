@@ -43,7 +43,7 @@ Fast alles läuft **lokal bei dir**, ohne Cloud und ohne Tracking.
 ### 📈 [AI Trade Lab](https://github.com/BadFameZz/Ai-Trade-Lab)
 **Mein privates Paper-Trading-Labor** auf dem eigenen Server. Zum Lernen und Experimentieren, kein Gewinnversprechen.
 
-`Python` `Proxmox` · <sub>🔬 Experiment</sub>
+`Proxmox` `Self-hosted` · <sub>🔬 Experiment</sub>
 
 </td>
 </tr>
