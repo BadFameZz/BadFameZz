@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Hey, ich bin Thomas – Sylvron" />
+<img src="./assets/banner.svg" width="100%" alt="Sylvron" />
 
 <br>
 
@@ -93,6 +93,6 @@ Fragen, Ideen oder einen Fehler gefunden? Immer her damit!
 
 <img src="./assets/sylvron-logo.png" width="72" alt="Sylvron" />
 
-<sub>Mit ☕ gebaut in Sachsen-Anhalt · © 2026 Sylvron · Thomas (BadFameZz)</sub>
+<sub>Mit ☕ gebaut · © 2026 Sylvron · BadFameZz</sub>
 
 </div>

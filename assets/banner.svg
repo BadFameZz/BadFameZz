@@ -17,7 +17,7 @@
   <rect width="1200" height="300" rx="22" fill="url(#hex)"/>
   <rect width="1200" height="300" rx="22" fill="url(#glow)"/>
   <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
-    <text x="70" y="118" font-size="26" fill="#c4b5fd" letter-spacing="6">HEY, ICH BIN THOMAS</text>
+    <text x="70" y="118" font-size="26" fill="#c4b5fd" letter-spacing="6">HEY, SCHÖN DASS DU DA BIST</text>
     <text x="68" y="190" font-size="68" font-weight="800" fill="url(#tx)" letter-spacing="10">SYLVRON</text>
     <text x="70" y="238" font-size="24" fill="#cbd5e1">Ich baue kleine Tools, die einfach funktionieren – lokal, ehrlich, kostenlos.</text>
   </g>
