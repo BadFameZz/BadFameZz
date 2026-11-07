@@ -1,105 +1,49 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- HERO -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=200&section=header&fontSize=0" width="100%" />
+<img src="./assets/banner.svg" width="100%" alt="Hey, ich bin Thomas – Sylvron" />
 
 <br>
 
-<img src="./sylvron-logo.png" width="140" alt="Sylvron Logo" />
+**Willkommen!** 👋 Schön, dass du vorbeischaust.<br>
+Hier findest du meine Projekte unter dem Namen **Sylvron**: Apps, Smart-Home-Kram und Spiele.<br>
+Fast alles läuft **lokal bei dir**, ohne Cloud und ohne Tracking.
 
-# S Y L V R O N
-
-**Software · Games · Rail Tech**
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Solo+Developer+%26+Founder;B2B+SaaS+%7C+Desktop+Apps+%7C+Games;Sachsen-Anhalt%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
-
-<br><br>
-
-> **Ich entwickle Software, die echte Probleme löst** — von Dienstplanung in für Kinderheime<br>über Gleisplanungstools bis hin zu Indie Games und Roblox Games.
-
-<br>
-
----
+[🌐 sylvron.de](https://sylvron.de) &nbsp;·&nbsp; [⭐ Projekte](#-was-ich-gerade-baue) &nbsp;·&nbsp; [💬 Kontakt](#-sag-hallo)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ABOUT -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 👤 Über mich
-
-Hey, ich bin **BadFameZz** — Solo-Entwickler und Gründer von **Sylvron**. Ich arbeite an der Schnittstelle von **B2B-SaaS**, **Desktop-Anwendungen** und **Game Development**. Meine Projekte verbinden technische Tiefe mit praxisnahen Lösungen — ob für Kinderbetreuung, Eisenbahningenieure oder Gamer.
-
-Wenn ich nicht programmiere, schreibe ich an meinem Fantasy-Roman oder bastle an Pixelkunst.
-
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🚀 Projekte
+## ✨ Was ich gerade baue
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗓️ Planvyr
+### ⚡ [Sylvron Pulse](https://github.com/BadFameZz/sylvron-pulse)
+**Dein Zuhause als lebendiger 3D-Kern**, eine HUD-Karte für Home Assistant mit dem Assistenten **CORE**. Er versteht ganz normale Sätze, merkt sich, worüber ihr redet, und lässt sich Neues beibringen. Ohne KI, ohne Cloud.
 
-**B2B SaaS — Dienstplanung für die Pflege**
+<a href="https://github.com/BadFameZz/sylvron-pulse"><img src="https://raw.githubusercontent.com/BadFameZz/sylvron-pulse/main/docs/mockup.jpg" width="100%" alt="Sylvron Pulse auf PC, Tablet und Handy" /></a>
 
-Intelligente Dienstplanungs-Plattform, speziell entwickelt für **deutsche Kinderheime**. Deckt komplexe Schichtregeln, gesetzliche Vorgaben und Team-Koordination ab.
-
-`TypeScript` `React` `Encore.dev` `PostgreSQL`
-
-<sub>🔒 In Entwicklung — Private Beta</sub>
+`Home Assistant` `HACS` `three.js` · <sub>🧪 Beta, **Tester willkommen!**</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚆 Vialis
+### 🎵 [Lindaris](https://github.com/BadFameZz/Lindaris)
+**Audio-Visualizer für macOS.** System-Audio live visualisieren oder einen Song laden, eine Szene bauen und als MP4 exportieren.
 
-**Desktop App — Gleis- & Streckenplanung**
+`macOS` `Universal Binary` · <sub>✅ Download verfügbar</sub>
 
-Professionelles Planungstool für Eisenbahninfrastruktur. Abdeckung von ETCS/ERTMS-Systemen, Signalplanung und Gleisgeometrie nach deutschen Bahnstandards.
+### 🚗 [MileBack](https://github.com/BadFameZz/mileback-releases)
+**Fahrtkosten berechnen und dokumentieren.** Lokal, kostenlos, ohne Tracker.
 
-`Svelte` `Tauri` `Rust`
+`Android` · <sub>✅ Download verfügbar</sub>
 
-<sub>Fertig</sub>
+### 📈 [AI Trade Lab](https://github.com/BadFameZz/Ai-Trade-Lab)
+**Mein privates Paper-Trading-Labor** auf dem eigenen Server. Zum Lernen und Experimentieren, kein Gewinnversprechen.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👗 PixelRunway
-
-**Game — Startup Tycoon**
-
-Ein Startup-Tycoon-Simulationsspiel, in dem Spieler ihr eigenes Unternehmen von Grund auf aufbauen und managen. Strategische Entscheidungen treffen auf Pixel-Art-Ästhetik.
-
-`Game Dev` `Pixel Art` `React` `Canvas`
-
-<sub>🎮 In Konzeptphase</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎲 DiceLegends
-
-**Roblox — Dice & Wagering**
-
-Ein Roblox Dice-/Wagering-Erlebnis, eigenem Shop-System mit Ingame-Währung (Taler) und persistenter Spieler-Progression via DataStore.
-
-`Roblox` `Luau` `Game Design`
-
-<sub>🎮 In Entwicklung</sub>
+`Python` `Proxmox` · <sub>🔬 Experiment</sub>
 
 </td>
 </tr>
@@ -107,91 +51,48 @@ Ein Roblox Dice-/Wagering-Erlebnis, eigenem Shop-System mit Ingame-Währung (Tal
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## 🧭 Wie ich arbeite
 
-## 🛠️ Tech Stack
+- 🏠 **Lokal zuerst:** Deine Daten bleiben bei dir.
+- 🧩 **Einfach installieren:** auspacken, starten, fertig. Keine Bastelstunde.
+- 🆓 **Kostenlos & offen:** Was hier liegt, darfst du nutzen.
+- 🛠️ **Selbst gebaut:** von der Idee bis zum Release, Schritt für Schritt.
+
+<br>
+
+## 🛠️ Womit ich baue
 
 <div align="center">
 
-**Sprachen**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend & Frameworks**<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-
-**Backend & Infrastruktur**<br>
-![Encore.dev](https://img.shields.io/badge/Encore.dev-000000?style=flat-square&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**Tools & Plattformen**<br>
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-CC9B7A?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- WRITING -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## 💬 Sag hallo
 
-## ✍️ Kreativ-Ecke
+Fragen, Ideen oder einen Fehler gefunden? Immer her damit!
 
-<table>
-<tr>
-<td>
-  <h3>📖 Lumilo: Hüter der Elemente</h3>
-  <p>
-    Mein aktuelles Buchprojekt — ein <strong>Young-Adult-Fantasy-Roman</strong>, angesiedelt in der Welt von <em>Elarion</em>. Sechs rotierende Perspektiven erzählen die Geschichte elementarer Hüter. Der Ton beginnt warm und wird mit jedem Kapitel dunkler.
-  </p>
-  <p><sub>📝 In Arbeit — Deutsch</sub></p>
-</td>
-</tr>
-</table>
+- 🐞 **Bug oder Wunsch zu einem Projekt:** einfach ein *Issue* im jeweiligen Repo aufmachen
+- 🌐 **Website:** [sylvron.de](https://sylvron.de)
+- 🧪 **Sylvron Pulse testen:** Anleitung im [Repo](https://github.com/BadFameZz/sylvron-pulse#installation)
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BadFameZz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadFameZz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&count_private=true" height="170" />
+<img src="./assets/sylvron-logo.png" width="72" alt="Sylvron" />
 
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=120&section=footer" width="100%" />
-
-<sub>Solo gebaut mit ☕ in Sachsen-Anhalt, Deutschland</sub>
-
-<br>
-
-<sub>© 2026 Sylvron — Thomas</sub>
+<sub>Mit ☕ gebaut in Sachsen-Anhalt · © 2026 Sylvron · Thomas (BadFameZz)</sub>
 
 </div>

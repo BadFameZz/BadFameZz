@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d1a"/><stop offset=".55" stop-color="#15123a"/><stop offset="1" stop-color="#1d1450"/>
+    </linearGradient>
+    <linearGradient id="tx" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#e879f9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".82" cy=".35" r=".45">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".45"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="hex" width="56" height="48.5" patternUnits="userSpaceOnUse" patternTransform="scale(1)">
+      <path d="M14 0h28l14 24.25-14 24.25H14L0 24.25z" fill="none" stroke="#a78bfa" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#hex)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#glow)"/>
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <text x="70" y="118" font-size="26" fill="#c4b5fd" letter-spacing="6">HEY, ICH BIN THOMAS</text>
+    <text x="68" y="190" font-size="68" font-weight="800" fill="url(#tx)" letter-spacing="10">SYLVRON</text>
+    <text x="70" y="238" font-size="24" fill="#cbd5e1">Ich baue kleine Tools, die einfach funktionieren – lokal, ehrlich, kostenlos.</text>
+  </g>
+  <g transform="translate(960 150)" fill="none" stroke-linejoin="round">
+    <path d="M0-92 80-46V46L0 92-80 46V-46Z" stroke="#a78bfa" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M0-70 61-35V35L0 70-61 35V-35Z" stroke="#7dd3fc" stroke-opacity=".35" stroke-width="1.5"/>
+    <path d="M30-30H-22l-12 14 12 14h30l12 14-12 14h-44" stroke="url(#tx)" stroke-width="12" stroke-linecap="round"/>
+  </g>
+</svg>
